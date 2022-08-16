@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hi there, I'm Paras 👋
+
+## I'm a web and app developer.
+
+- 🔭 
+- 🌱 
 
 <!--
-**paras-gupt/paras-gupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+
+### Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/paras-gupta-b5bb14190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paras-gupta" height="30" width="40" /></a>
+</p>
+
+<p></p>
+
+## My GitHub Stats:
+
+<p align="center">
+  <a href="https://github.com/Reuben27/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paras-gupt&show_icons=true&locale=en" alt="Paras's GitHub stats" />
+  </a> 
+  
+  <a href="https://github.com/Reuben27/">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paras-gupt&locale=en" alt="Paras's GitHub Streak" />
+  </a>
+
+  <a href="https://github.com/Reuben27/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paras-gupt&layout=compact&langs_count=8&locale=en" alt="Paras's GitHub Top Languages"/>
+  </a>
+</p>
+
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paras-gupt&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ -->
