@@ -26,15 +26,15 @@
 
 <p align="center">
   <a href="https://github.com/Reuben27/">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=paras-gupt&show_icons=true&locale=en" alt="Paras's GitHub stats" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=paras-gupt&show_icons=true&locale=entheme=radical" alt="Paras's GitHub stats" />
   </a> 
   
   <a href="https://github.com/Reuben27/">
-    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paras-gupt&locale=en" alt="Paras's GitHub Streak" />
+    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paras-gupt&locale=entheme=radical" alt="Paras's GitHub Streak" />
   </a>
 
   <a href="https://github.com/Reuben27/">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paras-gupt&layout=compact&langs_count=8&locale=en" alt="Paras's GitHub Top Languages"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paras-gupt&layout=compact&langs_count=8&locale=entheme=radical" alt="Paras's GitHub Top Languages"/>
   </a>
 </p>
 
